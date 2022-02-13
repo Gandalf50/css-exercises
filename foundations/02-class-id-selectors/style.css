@@ -1,0 +1,16 @@
+.odd {
+    background-color: rgb(252, 62, 141);
+    font-family: "Verdana","DejaVu Sans",sans-serif;
+}
+#scd {
+    color: rgb(12, 79, 224);
+    font-size: 36px;
+}
+.odd.trd {
+    font-size: 24px;
+}
+#fth {
+    background-color: rgb(109, 248, 123);
+    font-weight: 700;
+    font-size: 24px;
+}
